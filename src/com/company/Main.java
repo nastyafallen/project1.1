@@ -11,7 +11,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, SkyPro Team!"); //
         /* Это моя первая программа.
-         * Я решила использовать пример многотрочного комментария.
+         * Я решила использовать пример многострочного комментария.
          * :)
          */
     }
